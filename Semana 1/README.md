@@ -1,1 +1,0 @@
-# GoStack Semana 1

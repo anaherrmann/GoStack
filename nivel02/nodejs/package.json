@@ -1,0 +1,10 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.0.2"
+  }
+}

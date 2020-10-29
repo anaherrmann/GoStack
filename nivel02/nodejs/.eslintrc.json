@@ -23,6 +23,8 @@
     "prettier"
   ],
   "rules": {
+    "no-useless-constructor": "off",
+    "camelcase": "off",
     "class-methods-use-this": "off",
     "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/no-unused-vars": [
@@ -31,6 +33,7 @@
         "argsIgnorePattern": "_"
       }
     ],
+    "@typescript-eslint/interface-name-prefix": ["error", {"prefixWithI": "always"}],
     "import/extensions": [
       "error",
       "ignorePackages",
